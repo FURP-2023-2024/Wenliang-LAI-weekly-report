@@ -5,11 +5,18 @@
 Calculated data such as friction coefficient and other source networks may be biased. Calculations are for reference only
 
 Advantege: 
-1.the cost will be less. 
-2.The Angle adjustment is convenient and precision. 
-3.The platform is relatively easy to move
+
+ 1.the cost will be less. 
+ 
+ 2.The Angle adjustment is convenient and precision. 
+ 
+ 3.The platform is relatively easy to move
+ 
 
 Disadvantage: 
+
 1.this solution should use 2.5in lead screw to afford the force. Due to the large diameter, the lead screw fixing seat is hard to find. 
+
 2.Using only one screw to support will cause the plane to be unstable, which will affect the movement of the robot and make the measurement data appear error. 
+
 3.the Cumbersome to install.
